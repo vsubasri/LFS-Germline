@@ -1,0 +1,393 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:87873	Acd	adrenocortical dysplasia	8		mitotic telomere maintenance via semi-conservative replication			IBA	PTN001802536 	J:161428 	
+MGI:87873	Acd	adrenocortical dysplasia	8		mitotic telomere maintenance via semi-conservative replication			IBA	PTN001802536 SPAC6F6.16c 	J:265628 	
+MGI:87873	Acd	adrenocortical dysplasia	8		negative regulation of telomere maintenance via telomerase			ISO	Q96AP0 	J:164563 	
+MGI:87873	Acd	adrenocortical dysplasia	8		positive regulation of telomere maintenance via telomerase			IBA	PTN001802536 	J:161428 	
+MGI:87873	Acd	adrenocortical dysplasia	8		positive regulation of telomere maintenance via telomerase			IBA	PTN001802536 Q96AP0 	J:265628 	
+MGI:87873	Acd	adrenocortical dysplasia	8		positive regulation of telomere maintenance via telomerase			ISO	Q96AP0 	J:164563 	
+MGI:87873	Acd	adrenocortical dysplasia	8		protection from non-homologous end joining at telomere			IBA	MGI:87873 PTN001802536 	J:265628 	
+MGI:87873	Acd	adrenocortical dysplasia	8		protection from non-homologous end joining at telomere			IBA	PTN001802536 	J:161428 	
+MGI:87873	Acd	adrenocortical dysplasia	8		protection from non-homologous end joining at telomere			IMP		J:143815 	
+MGI:87873	Acd	adrenocortical dysplasia	8		telomere capping			IBA	MGI:87873 PTN001802536 Q96AP0 SPAC6F6.16c 	J:265628 	
+MGI:87873	Acd	adrenocortical dysplasia	8		telomere capping			IBA	PTN001802536 	J:161428 	
+MGI:87873	Acd	adrenocortical dysplasia	8		telomere capping			IMP		J:159142 	
+MGI:87873	Acd	adrenocortical dysplasia	8		telomere capping			ISO	Q96AP0 	J:164563 	
+MGI:87873	Acd	adrenocortical dysplasia	8		telomere maintenance			ISO	Q96AP0 	J:73065 	
+MGI:88042	Apex1	apurinic/apyrimidinic endonuclease 1	14		telomere maintenance			ISO	P27695 	J:164563 	
+MGI:88042	Apex1	apurinic/apyrimidinic endonuclease 1	14		telomere maintenance via base-excision repair			ISO	P27695 	J:164563 	
+MGI:107202	Atm	ataxia telangiectasia mutated	9		negative regulation of telomere capping			ISO	Q13315 	J:164563 	
+MGI:107202	Atm	ataxia telangiectasia mutated	9		positive regulation of telomere maintenance via telomerase			IMP		J:228143 	
+MGI:107202	Atm	ataxia telangiectasia mutated	9		positive regulation of telomere maintenance via telomere lengthening			ISO	Q13315 	J:164563 	
+MGI:107202	Atm	ataxia telangiectasia mutated	9		regulation of telomere maintenance via telomerase			ISO	Q13315 	J:164563 	
+MGI:107202	Atm	ataxia telangiectasia mutated	9		telomere maintenance			IBA	PTN001673294 S000000184 SPCC23B6.03c 	J:265628 	
+MGI:107202	Atm	ataxia telangiectasia mutated	9		telomere maintenance			IBA	PTN001673294 	J:161428 	
+MGI:108028	Atr	ataxia telangiectasia and Rad3 related	9		positive regulation of telomere maintenance via telomerase			IMP		J:228143 	
+MGI:108028	Atr	ataxia telangiectasia and Rad3 related	9		telomere maintenance			IBA	PTN001673376 S000000340 SPBC216.05 	J:265628 	
+MGI:108028	Atr	ataxia telangiectasia and Rad3 related	9		telomere maintenance			IBA	PTN001673376 	J:161428 	
+MGI:103067	Atrx	ATRX, chromatin remodeler	X		positive regulation of telomere maintenance			IMP		J:160497 	
+MGI:107168	Aurkb	aurora kinase B	11		positive regulation of telomere capping			ISO	Q96GD4 	J:164563 	
+MGI:107168	Aurkb	aurora kinase B	11		positive regulation of telomere maintenance via telomerase			ISO	Q96GD4 	J:164563 	
+MGI:1328362	Blm	Bloom syndrome, RecQ like helicase	7		telomere maintenance	happens in spleen,happens in native cell		IGI	MGI:109558 MGI:109635 	J:93016 	
+MGI:1328362	Blm	Bloom syndrome, RecQ like helicase	7		telomeric D-loop disassembly			IBA	PTN001009191 	J:161428 	
+MGI:1328362	Blm	Bloom syndrome, RecQ like helicase	7		telomeric D-loop disassembly			IBA	P54132 PTN001009191 	J:265628 	
+MGI:1328362	Blm	Bloom syndrome, RecQ like helicase	7		telomeric D-loop disassembly			ISO	P54132 	J:164563 	
+MGI:109337	Brca2	breast cancer 2, early onset	5		telomere maintenance via recombination	is upstream of telomere capping		IGI	Q13207 	J:228560 	
+MGI:88316	Ccne1	cyclin E1	7		telomere maintenance			IGI	MGI:1329034 	J:226665 	
+MGI:1329034	Ccne2	cyclin E2	4		telomere maintenance			IGI	MGI:88316 	J:226665 	
+MGI:107186	Cct2	chaperonin containing Tcp1, subunit 2 (beta)	10		positive regulation of telomere maintenance via telomerase			ISO	P78371 	J:164563 	
+MGI:104708	Cct3	chaperonin containing Tcp1, subunit 3 (gamma)	3		positive regulation of telomere maintenance via telomerase			ISO	P49368 	J:164563 	
+MGI:104689	Cct4	chaperonin containing Tcp1, subunit 4 (delta)	11		positive regulation of telomere maintenance via telomerase			ISO	P50991 	J:164563 	
+MGI:107185	Cct5	chaperonin containing Tcp1, subunit 5 (epsilon)	15		positive regulation of telomere maintenance via telomerase			ISO	P48643 	J:164563 	
+MGI:107943	Cct6a	chaperonin containing Tcp1, subunit 6a (zeta)	5		positive regulation of telomere maintenance via telomerase			ISO	P40227 	J:164563 	
+MGI:107184	Cct7	chaperonin containing Tcp1, subunit 7 (eta)	6		positive regulation of telomere maintenance via telomerase			ISO	Q99832 	J:164563 	
+MGI:107183	Cct8	chaperonin containing Tcp1, subunit 8 (theta)	16		positive regulation of telomere maintenance via telomerase			ISO	P50990 	J:164563 	
+MGI:1916214	Ctc1	CTS telomere maintenance complex component 1	11		negative regulation of telomere maintenance via telomerase			ISO	Q2NKJ3 	J:164563 	
+MGI:1916214	Ctc1	CTS telomere maintenance complex component 1	11		telomere maintenance			ISO	Q2NKJ3 	J:164563 	
+MGI:1916214	Ctc1	CTS telomere maintenance complex component 1	11		telomere maintenance via telomere lengthening			IBA	MGI:1916214 PTN001804660 	J:265628 	
+MGI:1916214	Ctc1	CTS telomere maintenance complex component 1	11		telomere maintenance via telomere lengthening			IBA	PTN001804660 	J:161428 	
+MGI:1916214	Ctc1	CTS telomere maintenance complex component 1	11		telomere maintenance via telomere lengthening			IMP	MGI:5427642 	J:184809 	
+MGI:88276	Ctnnb1	catenin (cadherin associated protein), beta 1	9		positive regulation of telomere maintenance via telomerase	happens in embryonic stem cell		IMP		J:185349 	
+MGI:1930042	Dclre1a	DNA cross-link repair 1A	19		protection from non-homologous end joining at telomere			IBA	MGI:2156057 PTN000581728 Q9H816 	J:265628 	
+MGI:1930042	Dclre1a	DNA cross-link repair 1A	19		protection from non-homologous end joining at telomere			IBA	PTN000581728 	J:161428 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		protection from non-homologous end joining at telomere			IBA	MGI:2156057 PTN000581728 Q9H816 	J:265628 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		protection from non-homologous end joining at telomere			IBA	PTN000581728 	J:161428 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		protection from non-homologous end joining at telomere			IMP		J:162085 J:163935 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		protection from non-homologous end joining at telomere			ISO	Q9H816 	J:164563 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		telomere capping			ISO	Q9H816 	J:164563 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		telomere maintenance			ISO	Q9H816 	J:164563 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		telomere maintenance via telomere lengthening			ISO	Q9H816 	J:164563 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		telomeric 3' overhang formation			IMP		J:162085 J:163935 	
+MGI:2156057	Dclre1b	DNA cross-link repair 1B	3		telomeric loop formation			IMP		J:163935 	
+MGI:2441769	Dclre1c	DNA cross-link repair 1C	2		protection from non-homologous end joining at telomere			IBA	MGI:2156057 PTN000581728 Q9H816 	J:265628 	
+MGI:2441769	Dclre1c	DNA cross-link repair 1C	2		protection from non-homologous end joining at telomere			IBA	PTN000581728 	J:161428 	
+MGI:2441769	Dclre1c	DNA cross-link repair 1C	2		telomere maintenance			IMP		J:94764 	
+MGI:1917890	Dcp2	decapping mRNA 2	18		negative regulation of telomere maintenance via telomerase			ISO	Q8IU60 	J:164563 	
+MGI:1919412	Dhx36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	3		positive regulation of telomere maintenance			ISO	Q9H2U1 	J:164563 	
+MGI:1919412	Dhx36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	3		positive regulation of telomere maintenance via telomere lengthening			ISO	Q9H2U1 	J:164563 	
+MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	X		positive regulation of telomere maintenance via telomerase			IMP	MGI:3849598 	J:91485 	
+MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	X		telomere maintenance via telomerase			ISO	O60832 	J:164563 	
+MGI:2443732	Dna2	DNA replication helicase/nuclease 2	10		mitotic telomere maintenance via semi-conservative replication			IMP		J:198831 	
+MGI:2443732	Dna2	DNA replication helicase/nuclease 2	10		telomere maintenance			IMP		J:198831 	
+MGI:95412	Ercc1	excision repair cross-complementing rodent repair deficiency, complementation group 1	7		negative regulation of protection from non-homologous end joining at telomere			ISO	P07992 	J:164563 	
+MGI:95412	Ercc1	excision repair cross-complementing rodent repair deficiency, complementation group 1	7		negative regulation of telomere maintenance			ISO	P07992 	J:164563 	
+MGI:95412	Ercc1	excision repair cross-complementing rodent repair deficiency, complementation group 1	7		positive regulation of t-circle formation	happens at the same time as cell cycle		IMP		J:222674 	
+MGI:95412	Ercc1	excision repair cross-complementing rodent repair deficiency, complementation group 1	7		t-circle formation	happens at the same time as cell cycle		IMP		J:222674 	
+MGI:95412	Ercc1	excision repair cross-complementing rodent repair deficiency, complementation group 1	7		telomeric DNA-containing double minutes formation			ISO	P07992 	J:164563 	
+MGI:1354163	Ercc4	excision repair cross-complementing rodent repair deficiency, complementation group 4	16		negative regulation of protection from non-homologous end joining at telomere			ISO	Q92889 	J:164563 	
+MGI:1354163	Ercc4	excision repair cross-complementing rodent repair deficiency, complementation group 4	16		negative regulation of telomere maintenance			ISO	Q92889 	J:164563 	
+MGI:1354163	Ercc4	excision repair cross-complementing rodent repair deficiency, complementation group 4	16		negative regulation of telomere maintenance via telomere lengthening			ISO	Q92889 	J:164563 	
+MGI:1354163	Ercc4	excision repair cross-complementing rodent repair deficiency, complementation group 4	16		telomere maintenance			ISO	Q92889 	J:164563 	
+MGI:1354163	Ercc4	excision repair cross-complementing rodent repair deficiency, complementation group 4	16		telomeric DNA-containing double minutes formation			ISO	Q92889 	J:164563 	
+MGI:1355322	Exosc10	exosome component 10	4		negative regulation of telomere maintenance via telomerase			ISO	Q01780 	J:164563 	
+MGI:2146220	Fbxo4	F-box protein 4	15		positive regulation of telomere maintenance via telomerase			ISO	Q9UKT5 	J:164563 	
+MGI:2146220	Fbxo4	F-box protein 4	15		telomere maintenance			ISO	Q9UKT5 	J:164563 	
+MGI:1353651	Gnl3	guanine nucleotide binding protein-like 3 (nucleolar)	14		positive regulation of telomere maintenance			ISO	Q9BVP2 	J:164563 	
+MGI:2448557	Gnl3l	guanine nucleotide binding protein-like 3 (nucleolar)-like	X		negative regulation of telomere maintenance via telomerase			ISO	Q9NVN8 	J:164563 	
+MGI:1917565	Hdac8	histone deacetylase 8	X		regulation of telomere maintenance			ISO	Q9BY41 	J:164563 	
+MGI:2445066	Hmbox1	homeobox containing 1	14		positive regulation of telomere maintenance via telomerase			ISO	Q6NT76 	J:164563 	
+MGI:104819	Hnrnpa2b1	heterogeneous nuclear ribonucleoprotein A2/B1	6		positive regulation of telomere maintenance via telomere lengthening			ISO	RGD:1310403 	J:155856 	
+MGI:104819	Hnrnpa2b1	heterogeneous nuclear ribonucleoprotein A2/B1	6		telomere capping			ISO	RGD:1310403 	J:155856 	
+MGI:107795	Hnrnpc	heterogeneous nuclear ribonucleoprotein C	14		negative regulation of telomere maintenance via telomerase			ISO	P07910 	J:164563 	
+MGI:101947	Hnrnpd	heterogeneous nuclear ribonucleoprotein D	5		positive regulation of telomere capping			IMP		J:188017 	
+MGI:101947	Hnrnpd	heterogeneous nuclear ribonucleoprotein D	5		regulation of telomere maintenance			IMP		J:188017 	
+MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	1		negative regulation of telomere maintenance via telomerase			ISO	Q00839 	J:164563 	
+MGI:96250	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	12		telomere maintenance via telomerase			ISO	P07900 	J:164563 	
+MGI:96247	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1	17		telomere maintenance via telomerase			ISO	P08238 	J:164563 	
+MGI:96244	Hspa1a	heat shock protein 1A	17		telomere maintenance			IMP	MGI:3028843 	J:87581 	
+MGI:1277962	Hus1	HUS1 checkpoint clamp component	11		telomere maintenance			IBA	PTN000307391 	J:161428 	
+MGI:1277962	Hus1	HUS1 checkpoint clamp component	11		telomere maintenance			IBA	PTN000307391 S000004279 SPAC20G4.04c 	J:265628 	
+MGI:2671003	Hus1b	HUS1 checkpoint clamp component B	13		telomere maintenance			IBA	PTN000307391 	J:161428 	
+MGI:2671003	Hus1b	HUS1 checkpoint clamp component B	13		telomere maintenance			IBA	PTN000307391 S000004279 SPAC20G4.04c 	J:265628 	
+MGI:96794	Lmna	lamin A	3		regulation of telomere maintenance			ISO	P02545 	J:164563 	
+MGI:1919534	LTO1	ABCE maturation factor	7		telomere maintenance			IBA	PTN000307391 	J:161428 	
+MGI:1919534	LTO1	ABCE maturation factor	7		telomere maintenance			IBA	PTN000307391 S000004279 SPAC20G4.04c 	J:265628 	
+MGI:1346871	Map2k7	mitogen-activated protein kinase kinase 7	8		positive regulation of telomere capping			ISO	O14733 	J:164563 	
+MGI:1346871	Map2k7	mitogen-activated protein kinase kinase 7	8		positive regulation of telomere maintenance via telomerase			ISO	O14733 	J:164563 	
+MGI:1346875	Map3k4	mitogen-activated protein kinase kinase kinase 4	17		positive regulation of telomere capping			ISO	Q9Y6R4 	J:164563 	
+MGI:1346875	Map3k4	mitogen-activated protein kinase kinase kinase 4	17		positive regulation of telomere maintenance via telomerase			ISO	Q9Y6R4 	J:164563 	
+MGI:1346858	Mapk1	mitogen-activated protein kinase 1	16		positive regulation of telomere capping			ISO	P28482 	J:164563 	
+MGI:1346858	Mapk1	mitogen-activated protein kinase 1	16		positive regulation of telomere maintenance via telomerase			ISO	P28482 	J:164563 	
+MGI:1346859	Mapk3	mitogen-activated protein kinase 3	7		positive regulation of telomere capping			ISO	P27361 	J:164563 	
+MGI:1346859	Mapk3	mitogen-activated protein kinase 3	7		positive regulation of telomere maintenance via telomerase			ISO	P27361 	J:164563 	
+MGI:2652894	Mapk15	mitogen-activated protein kinase 15	15		positive regulation of telomere capping			ISO	Q8TD08 	J:164563 	
+MGI:2652894	Mapk15	mitogen-activated protein kinase 15	15		positive regulation of telomere maintenance via telomerase			ISO	Q8TD08 	J:164563 	
+MGI:1333110	Mapkapk5	MAP kinase-activated protein kinase 5	5		positive regulation of telomere capping			ISO	Q8IW41 	J:164563 	
+MGI:1333110	Mapkapk5	MAP kinase-activated protein kinase 5	5		positive regulation of telomere maintenance via telomerase			ISO	Q8IW41 	J:164563 	
+MGI:1858420	Mcrs1	microspherule protein 1	15		negative regulation of telomere maintenance via telomere lengthening			ISO	Q96EZ8 	J:164563 	
+MGI:1100512	Mre11a	MRE11A homolog A, double strand break repair nuclease	9		positive regulation of telomere maintenance			ISO	P49959 	J:164563 	
+MGI:1100512	Mre11a	MRE11A homolog A, double strand break repair nuclease	9		telomere maintenance			IBA	P49959 PTN000015644 S000004837 SPAC13C5.07 	J:265628 	
+MGI:1100512	Mre11a	MRE11A homolog A, double strand break repair nuclease	9		telomere maintenance			IBA	PTN000015644 	J:161428 	
+MGI:1100512	Mre11a	MRE11A homolog A, double strand break repair nuclease	9		telomeric 3' overhang formation			ISO	P49959 	J:164563 	
+MGI:97250	Myc	myelocytomatosis oncogene	15		regulation of telomere maintenance			ISO	P01106 	J:164563 	
+MGI:1917167	Nabp2	nucleic acid binding protein 2	10		positive regulation of telomere capping			IMP		J:219806 	
+MGI:1917167	Nabp2	nucleic acid binding protein 2	10		positive regulation of telomere capping			ISO	Q9BQ15 	J:164563 	
+MGI:2682306	Naf1	nuclear assembly factor 1 ribonucleoprotein	8		positive regulation of telomere maintenance via telomere lengthening			ISO	Q96HR8 	J:164563 	
+MGI:2138939	Nat10	N-acetyltransferase 10	2		negative regulation of telomere maintenance via telomerase			ISO	Q9H0A0 	J:164563 	
+MGI:1351625	Nbn	nibrin	4		negative regulation of telomere capping			ISO	O60934 	J:164563 	
+MGI:1351625	Nbn	nibrin	4		positive regulation of telomere maintenance			ISO	O60934 	J:164563 	
+MGI:1351625	Nbn	nibrin	4		t-circle formation			ISO	O60934 	J:164563 	
+MGI:1351625	Nbn	nibrin	4		telomere capping			IBA	PTN000255549 	J:265628 	
+MGI:1351625	Nbn	nibrin	4		telomere capping			IBA	PTN000255549 	J:161428 	
+MGI:1351625	Nbn	nibrin	4		telomere maintenance			ISO	O60934 	J:164563 	
+MGI:1351625	Nbn	nibrin	4		telomere maintenance via telomere trimming			ISO	O60934 	J:164563 	
+MGI:1351625	Nbn	nibrin	4		telomeric 3' overhang formation			ISO	O60934 	J:164563 	
+MGI:109359	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2	1		positive regulation of telomere capping			ISO	P51955 	J:164563 	
+MGI:109359	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2	1		positive regulation of telomere maintenance via telomerase			ISO	P51955 	J:164563 	
+MGI:1890645	Nek7	NIMA (never in mitosis gene a)-related expressed kinase 7	1		positive regulation of telomere capping			ISO	Q8TDX7 	J:164563 	
+MGI:1890645	Nek7	NIMA (never in mitosis gene a)-related expressed kinase 7	1		positive regulation of telomere maintenance via telomerase			ISO	Q8TDX7 	J:164563 	
+MGI:1098547	Nhp2	NHP2 ribonucleoprotein	11		telomere maintenance via telomerase			ISO	Q9NX24 	J:164563 	
+MGI:1913431	Nop10	NOP10 ribonucleoprotein	2		telomere maintenance via telomerase			ISO	Q9NPE3 	J:164563 	
+MGI:1915751	Nsmce2	NSE2/MMS21 homolog, SMC5-SMC6 complex SUMO ligase	15		telomere maintenance via recombination			ISO	Q96MF7 	J:164563 	
+MGI:1921358	Parn	poly(A)-specific ribonuclease (deadenylation nuclease)	16		positive regulation of telomere maintenance via telomerase			ISO	O95453 	J:164563 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		negative regulation of telomere maintenance via telomere lengthening			IMP		J:228143 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		telomere maintenance			IMP	MGI:1857862 	J:83068 	
+MGI:1891258	Parp3	poly (ADP-ribose) polymerase family, member 3	9		telomere maintenance			ISO	Q9Y6F1 	J:73065 	
+MGI:2685589	Parp4	poly (ADP-ribose) polymerase family, member 4	14	NOT	telomere maintenance via telomerase			IGI	MGI:109573 	J:91080 	
+MGI:97503	Pcna	proliferating cell nuclear antigen	2		mitotic telomere maintenance via semi-conservative replication			IGI	Q0VGM9 	J:202812 	
+MGI:2143057	Pif1	PIF1 5'-to-3' DNA helicase	9		negative regulation of telomere maintenance via telomerase			ISO	Q9H611 	J:164563 	
+MGI:2143057	Pif1	PIF1 5'-to-3' DNA helicase	9		regulation of telomere maintenance			ISO	Q9H611 	J:164563 	
+MGI:2143057	Pif1	PIF1 5'-to-3' DNA helicase	9		telomere maintenance			IEA	IPR010285 	J:72247 	
+MGI:1919650	Pinx1	PIN2/TERF1 interacting, telomerase inhibitor 1	14		negative regulation of telomere maintenance via telomerase			ISO	Q96BK5 	J:164563 	
+MGI:1919650	Pinx1	PIN2/TERF1 interacting, telomerase inhibitor 1	14		telomere maintenance via telomerase			ISO	Q96BK5 	J:72504 	
+MGI:101937	Pkib	protein kinase inhibitor beta, cAMP dependent, testis specific	10		positive regulation of telomere capping			ISO	Q9C010 	J:164563 	
+MGI:101937	Pkib	protein kinase inhibitor beta, cAMP dependent, testis specific	10		positive regulation of telomere maintenance via telomerase			ISO	Q9C010 	J:164563 	
+MGI:104662	Pml	promyelocytic leukemia	9		negative regulation of telomere maintenance via telomerase			ISO	P29590 	J:164563 	
+MGI:104662	Pml	promyelocytic leukemia	9		positive regulation of telomere maintenance			ISO	P29590 	J:164563 	
+MGI:1891698	Pnkp	polynucleotide kinase 3'- phosphatase	7		positive regulation of telomere capping			ISO	Q96T60 	J:164563 	
+MGI:1891698	Pnkp	polynucleotide kinase 3'- phosphatase	7		positive regulation of telomere maintenance via telomerase			ISO	Q96T60 	J:164563 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		negative regulation of telomere maintenance via telomerase			ISO	Q9NUX5 	J:164563 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		positive regulation of telomere maintenance via telomerase			ISO	Q9NUX5 	J:164563 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		regulation of telomere maintenance via telomerase			IBA	PTN000376531 	J:161428 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		regulation of telomere maintenance via telomerase			IBA	PTN000376531 Q9NUX5 S000002379 	J:265628 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		regulation of telomere maintenance via telomerase			ISO	Q9NUX5 	J:164563 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		telomere capping			IBA	MGI:1920086 PTN000376531 Q9NUX5 S000002379 SPAC26H5.06 	J:265628 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		telomere capping			IBA	PTN000376531 	J:161428 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		telomere capping			ISO	Q9NUX5 	J:164563 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		telomere maintenance			IEA	IPR011564 IPR028389 	J:72247 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		telomere maintenance via telomerase			ISO	Q9NUX5 	J:164563 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6		telomeric D-loop disassembly			ISO	Q9NUX5 	J:164563 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6	NOT	telomeric loop formation			IGI	H7BX60 	J:240381 	
+MGI:2141503	Pot1a	protection of telomeres 1A	6	NOT	telomeric loop formation			IMP		J:240381 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17		protection from non-homologous end joining at telomere			IDA		J:115639 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17		regulation of telomere maintenance via telomerase			IBA	PTN000376531 	J:161428 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17		regulation of telomere maintenance via telomerase			IBA	PTN000376531 Q9NUX5 S000002379 	J:265628 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17		telomere capping			IBA	MGI:1920086 PTN000376531 Q9NUX5 S000002379 SPAC26H5.06 	J:265628 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17		telomere capping			IBA	PTN000376531 	J:161428 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17		telomere capping			IDA		J:115639 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17		telomere maintenance in response to DNA damage			IDA		J:115639 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17	NOT	telomeric loop formation			IGI	Q91WC1 	J:240381 	
+MGI:1920086	Pot1b	protection of telomeres 1B	17	NOT	telomeric loop formation			IMP		J:240381 	
+MGI:1289273	Ppp1r10	protein phosphatase 1, regulatory subunit 10	17		positive regulation of telomere maintenance			ISO	Q96QC0 	J:164563 	
+MGI:97601	Prkcq	protein kinase C, theta	2		positive regulation of telomere capping			ISO	Q04759 	J:164563 	
+MGI:97601	Prkcq	protein kinase C, theta	2		positive regulation of telomere maintenance via telomerase			ISO	Q04759 	J:164563 	
+MGI:104779	Prkdc	protein kinase, DNA activated, catalytic polypeptide	16		telomere capping			ISO	P78527 	J:164563 	
+MGI:104779	Prkdc	protein kinase, DNA activated, catalytic polypeptide	16		telomere maintenance			IBA	MGI:104779 PTN001673367 	J:265628 	
+MGI:104779	Prkdc	protein kinase, DNA activated, catalytic polypeptide	16		telomere maintenance			IBA	PTN001673367 	J:161428 	
+MGI:104779	Prkdc	protein kinase, DNA activated, catalytic polypeptide	16		telomere maintenance			IMP	MGI:1857113 	J:88560 	
+MGI:1929282	Ptges3	prostaglandin E synthase 3	10		telomere maintenance via telomerase			IBA	MGI:1929282 PTN000532600 Q15185 	J:265628 	
+MGI:1929282	Ptges3	prostaglandin E synthase 3	10		telomere maintenance via telomerase			IBA	PTN000532600 	J:161428 	
+MGI:1929282	Ptges3	prostaglandin E synthase 3	10		telomere maintenance via telomerase			IDA		J:238470 	
+MGI:1929282	Ptges3	prostaglandin E synthase 3	10		telomere maintenance via telomerase			ISO	Q15185 	J:164563 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		negative regulation of telomere capping			ISO	Q92878 	J:164563 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		positive regulation of telomere maintenance			ISO	Q92878 	J:164563 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomere capping			IBA	PTN000429848 	J:265628 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomere capping			IBA	PTN000429848 	J:161428 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomere maintenance			IEA	IPR004584 	J:72247 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomere maintenance via recombination			IBA	PTN000429848 S000005194 SPAC1556.01c 	J:265628 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomere maintenance via recombination			IBA	PTN000429848 	J:161428 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomere maintenance via telomerase			IBA	PTN000429848 	J:161428 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomere maintenance via telomerase			IBA	PTN000429848 Q92878 	J:265628 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomere maintenance via telomerase			ISO	Q92878 	J:164563 	
+MGI:109292	Rad50	RAD50 double strand break repair protein	11		telomeric 3' overhang formation			ISO	Q92878 	J:164563 	
+MGI:97890	Rad51	RAD51 recombinase	2		telomere maintenance via recombination	is upstream of telomere capping		IGI	P02340 	J:228560 	
+MGI:97890	Rad51	RAD51 recombinase	2		telomere maintenance via telomere lengthening			IGI	P02340 	J:228560 	
+MGI:2150020	Rad51c	RAD51 paralog C	11		telomere maintenance via recombination	is upstream of telomere capping		IGI	P02340 	J:228560 	
+MGI:1261809	Rad51d	RAD51 paralog D	11		telomere maintenance			IBA	MGI:1261809 O75771 PTN000534427 	J:265628 	
+MGI:1261809	Rad51d	RAD51 paralog D	11		telomere maintenance			IBA	PTN000534427 	J:161428 	
+MGI:1261809	Rad51d	RAD51 paralog D	11		telomere maintenance			IGI	P02340 	J:228117 	
+MGI:1261809	Rad51d	RAD51 paralog D	11		telomere maintenance			ISO	O75771 	J:164563 	
+MGI:1261809	Rad51d	RAD51 paralog D	11		telomere maintenance via recombination			IC	GO:0000724 GO:0000784 	J:228117 	
+MGI:1931028	Recql4	RecQ protein-like 4	15		telomere maintenance			ISO	O94761 	J:164563 	
+MGI:1931028	Recql4	RecQ protein-like 4	15		telomeric D-loop disassembly			IBA	PTN002299856 	J:161428 	
+MGI:1931028	Recql4	RecQ protein-like 4	15		telomeric D-loop disassembly			IBA	O94761 PTN002299856 	J:265628 	
+MGI:1931028	Recql4	RecQ protein-like 4	15		telomeric D-loop disassembly			ISO	O94761 	J:164563 	
+MGI:1098622	Rif1	replication timing regulatory factor 1	2		telomere maintenance			IBA	MGI:1098622 PTN001116630 S000000479 SPAC6F6.17 	J:265628 	
+MGI:1098622	Rif1	replication timing regulatory factor 1	2		telomere maintenance			IBA	PTN001116630 	J:161428 	
+MGI:1098622	Rif1	replication timing regulatory factor 1	2		telomere maintenance			IMP		J:213416 	
+MGI:1098622	Rif1	replication timing regulatory factor 1	2		telomere maintenance in response to DNA damage			ISO	Q5UIP0 	J:164563 	
+MGI:1915525	Rpa1	replication protein A1	11		telomere maintenance			IBA	PTN000588618 	J:161428 	
+MGI:1915525	Rpa1	replication protein A1	11		telomere maintenance			IBA	P27694 PTN000588618 SPBC660.13c 	J:265628 	
+MGI:1915525	Rpa1	replication protein A1	11		telomere maintenance			ISO	P27694 	J:164563 	
+MGI:1915525	Rpa1	replication protein A1	11		telomere maintenance via telomerase			IBA	PTN000588618 	J:161428 	
+MGI:1915525	Rpa1	replication protein A1	11		telomere maintenance via telomerase			IBA	PTN000588618 S000000065 SPBC660.13c 	J:265628 	
+MGI:1339939	Rpa2	replication protein A2	4		telomere maintenance			ISO	P15927 	J:164563 	
+MGI:1339939	Rpa2	replication protein A2	4		telomere maintenance via recombination			IBA	PTN000360435 	J:161428 	
+MGI:1339939	Rpa2	replication protein A2	4		telomere maintenance via recombination			IBA	PTN000360435 S000005256 	J:265628 	
+MGI:1339939	Rpa2	replication protein A2	4		telomere maintenance via telomerase			IBA	PTN000360435 	J:161428 	
+MGI:1339939	Rpa2	replication protein A2	4		telomere maintenance via telomerase			IBA	PTN000360435 S000005256 	J:265628 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		mitotic telomere maintenance via semi-conservative replication			IDA		J:202812 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		negative regulation of t-circle formation			IBA	MGI:2139369 PTN000158195 Q9NZ71 	J:265628 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		negative regulation of t-circle formation			IBA	PTN000158195 	J:161428 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		negative regulation of t-circle formation			IMP		J:202812 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		negative regulation of t-circle formation	happens at the same time as cell cycle		IMP		J:222674 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		negative regulation of t-circle formation			ISO	Q9NZ71 	J:164563 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		negative regulation of telomere maintenance in response to DNA damage			IMP		J:222674 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		positive regulation of telomere capping			ISO	Q9NZ71 	J:164563 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		positive regulation of telomere maintenance			IMP		J:222674 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		positive regulation of telomere maintenance via telomere lengthening			ISO	Q9NZ71 	J:164563 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		positive regulation of telomeric loop disassembly			IDA		J:222674 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomere maintenance			IMP	MGI:3052235 	J:91351 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomere maintenance			ISO	Q9NZ71 	J:164563 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomere maintenance in response to DNA damage			IMP		J:222674 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomeric D-loop disassembly			TAS		J:222674 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomeric loop disassembly			IBA	MGI:2139369 PTN000158195 Q9NZ71 	J:265628 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomeric loop disassembly			IBA	PTN000158195 	J:161428 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomeric loop disassembly			IDA		J:222674 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomeric loop disassembly	happens at the same time as mitotic S phase		IMP		J:202812 	
+MGI:2139369	Rtel1	regulator of telomere elongation helicase 1	2		telomeric loop disassembly			ISO	Q9NZ71 	J:164563 	
+MGI:1354161	Sirt6	sirtuin 6	10		positive regulation of telomere maintenance			ISO	Q8N6T7 	J:164563 	
+MGI:1915220	Slx1b	SLX1 structure-specific endonuclease subunit homolog B (S. cerevisiae)	7		positive regulation of t-circle formation	happens at the same time as cell cycle		IMP		J:222674 	
+MGI:1915220	Slx1b	SLX1 structure-specific endonuclease subunit homolog B (S. cerevisiae)	7		t-circle formation	happens at the same time as cell cycle		IMP		J:222674 	
+MGI:106299	Slx4	SLX4 structure-specific endonuclease subunit homolog (S. cerevisiae)	16		negative regulation of telomere maintenance via telomere lengthening			ISO	Q8IY92 	J:164563 	
+MGI:106299	Slx4	SLX4 structure-specific endonuclease subunit homolog (S. cerevisiae)	16		positive regulation of t-circle formation	happens at the same time as cell cycle		IMP		J:222674 	
+MGI:106299	Slx4	SLX4 structure-specific endonuclease subunit homolog (S. cerevisiae)	16		t-circle formation	happens at the same time as cell cycle		IMP		J:222674 	
+MGI:106299	Slx4	SLX4 structure-specific endonuclease subunit homolog (S. cerevisiae)	16		t-circle formation			ISO	Q8IY92 	J:164563 	
+MGI:106299	Slx4	SLX4 structure-specific endonuclease subunit homolog (S. cerevisiae)	16		telomeric D-loop disassembly			ISO	Q8IY92 	J:164563 	
+MGI:2385088	Smc5	structural maintenance of chromosomes 5	19		telomere maintenance via recombination			ISO	Q8IY18 	J:164563 	
+MGI:1914491	Smc6	structural maintenance of chromosomes 6	12		telomere maintenance via recombination			ISO	Q96SB8 	J:164563 	
+MGI:1919742	Smg1	SMG1 homolog, phosphatidylinositol 3-kinase-related kinase (C. elegans)	7		regulation of telomere maintenance			ISO	Q96Q15 	J:164563 	
+MGI:2447364	Smg5	Smg-5 homolog, nonsense mediated mRNA decay factor (C. elegans)	3		regulation of telomere maintenance			ISO	Q9UPR3 	J:164563 	
+MGI:2447364	Smg5	Smg-5 homolog, nonsense mediated mRNA decay factor (C. elegans)	3		telomere maintenance via telomerase			IBA	PTN000403280 	J:161428 	
+MGI:2447364	Smg5	Smg-5 homolog, nonsense mediated mRNA decay factor (C. elegans)	3		telomere maintenance via telomerase			IBA	A0A1D8PP89 PTN000403280 S000004223 	J:265628 	
+MGI:2144117	Smg6	Smg-6 homolog, nonsense mediated mRNA decay factor (C. elegans)	11		negative regulation of telomere capping			ISO	Q86US8 	J:164563 	
+MGI:2144117	Smg6	Smg-6 homolog, nonsense mediated mRNA decay factor (C. elegans)	11		regulation of telomere maintenance			ISO	Q86US8 	J:164563 	
+MGI:2144117	Smg6	Smg-6 homolog, nonsense mediated mRNA decay factor (C. elegans)	11		telomere maintenance via telomerase			IBA	PTN000403280 	J:161428 	
+MGI:2144117	Smg6	Smg-6 homolog, nonsense mediated mRNA decay factor (C. elegans)	11		telomere maintenance via telomerase			IBA	A0A1D8PP89 PTN000403280 S000004223 	J:265628 	
+MGI:2682334	Smg7	Smg-7 homolog, nonsense mediated mRNA decay factor (C. elegans)	1		telomere maintenance via telomerase			IBA	PTN000403280 	J:161428 	
+MGI:2682334	Smg7	Smg-7 homolog, nonsense mediated mRNA decay factor (C. elegans)	1		telomere maintenance via telomerase			IBA	A0A1D8PP89 PTN000403280 S000004223 	J:265628 	
+MGI:98397	Src	Rous sarcoma oncogene	2		negative regulation of telomere maintenance via telomerase			ISO	P12931 	J:164563 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		negative regulation of telomere maintenance via telomerase			IBA	PTN000383864 	J:161428 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		negative regulation of telomere maintenance via telomerase			IBA	PTN000383864 Q9H668 	J:265628 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		negative regulation of telomere maintenance via telomerase			ISO	Q9H668 	J:164563 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		telomere capping			IBA	PTN000383864 	J:161428 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		telomere capping			IBA	PTN000383864 	J:265628 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		telomere maintenance			ISO	Q9H668 	J:164563 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		telomere maintenance via telomere lengthening			IBA	PTN000383864 	J:161428 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		telomere maintenance via telomere lengthening			IBA	PTN000383864 Q9H668 	J:265628 	
+MGI:1915581	Stn1	STN1, CST complex subunit	19		telomere maintenance via telomere lengthening			ISO	Q9H668 	J:164563 	
+MGI:98535	Tcp1	t-complex protein 1	17		positive regulation of telomere maintenance via telomerase			ISO	P17987 	J:164563 	
+MGI:1918968	Telo2	telomere maintenance 2	17		telomere maintenance			IBA	PTN000406418 	J:161428 	
+MGI:1918968	Telo2	telomere maintenance 2	17		telomere maintenance			IBA	PTN000406418 S000003331 	J:265628 	
+MGI:1916785	Ten1	TEN1 telomerase capping complex subunit	11		negative regulation of telomere maintenance via telomerase			IBA	PTN002141694 	J:161428 	
+MGI:1916785	Ten1	TEN1 telomerase capping complex subunit	11		negative regulation of telomere maintenance via telomerase			IBA	PTN002141694 Q86WV5 	J:265628 	
+MGI:1916785	Ten1	TEN1 telomerase capping complex subunit	11		negative regulation of telomere maintenance via telomerase			ISO	Q86WV5 	J:164563 	
+MGI:1917820	Tent4b	terminal nucleotidyltransferase 4B	8		negative regulation of telomere maintenance via telomerase			ISO	Q8NDF8 	J:164563 	
+MGI:109573	Tep1	telomerase associated protein 1	14		telomere maintenance via recombination			ISO	Q99973 	J:164563 	
+MGI:109573	Tep1	telomerase associated protein 1	14	NOT	telomere maintenance via telomerase			IGI	MGI:2685589 	J:91080 	
+MGI:109558	Terc	telomerase RNA component	3		positive regulation of telomere maintenance via telomerase	regulates a function/process that happens in oocyte		IMP	MGI:1857930 	J:131948 	
+MGI:109558	Terc	telomerase RNA component	3		telomere maintenance	happens in bone marrow,happens in native cell|happens in spleen,happens in native cell		IGI	MGI:109635 	J:91715 	
+MGI:109558	Terc	telomerase RNA component	3		telomere maintenance			IGI	MGI:109635 MGI:1328362 	J:93016 	
+MGI:109558	Terc	telomerase RNA component	3		telomere maintenance			IMP	MGI:1857930 	J:118902 	
+MGI:109558	Terc	telomerase RNA component	3		telomere maintenance via telomerase			IMP	MGI:1857930 	J:43571 	
+MGI:109634	Terf1	telomeric repeat binding factor 1	1		negative regulation of telomere maintenance via telomerase			ISO	P54274 	J:164563 	
+MGI:109634	Terf1	telomeric repeat binding factor 1	1		negative regulation of telomeric D-loop disassembly			ISO	P54274 	J:164563 	
+MGI:109634	Terf1	telomeric repeat binding factor 1	1		telomere maintenance			ISO	P54274 	J:164563 	
+MGI:109634	Terf1	telomeric repeat binding factor 1	1		telomere maintenance via telomerase			ISO	P54274 	J:164563 	
+MGI:109634	Terf1	telomeric repeat binding factor 1	1		telomeric D-loop disassembly			ISO	P54274 	J:164563 	
+MGI:109634	Terf1	telomeric repeat binding factor 1	1	NOT	telomeric loop formation			IMP		J:240381 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of t-circle formation			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomere capping			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomere maintenance			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomere maintenance via recombination			IMP		J:240381 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomere maintenance via recombination			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomere maintenance via telomerase			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomere maintenance via telomere lengthening			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomeric D-loop disassembly			IBA	PTN002929876 	J:161428 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomeric D-loop disassembly			IBA	PTN002929876 Q15554 	J:265628 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		negative regulation of telomeric D-loop disassembly			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		positive regulation of telomere maintenance	regulates a function/process that happens in fibroblast		IDA		J:105516 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		positive regulation of telomere maintenance	regulates a function/process that happens in fibroblast		IMP	MGI:3619525 	J:105516 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		protection from non-homologous end joining at telomere			IBA	MGI:1195972 PTN002929876 Q15554 	J:265628 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		protection from non-homologous end joining at telomere			IBA	PTN002929876 	J:161428 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		protection from non-homologous end joining at telomere	happens in fibroblast		IDA		J:105516 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		protection from non-homologous end joining at telomere			IMP		J:163935 J:240381 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		protection from non-homologous end joining at telomere	happens in fibroblast		IMP	MGI:3619525 	J:105516 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		protection from non-homologous end joining at telomere			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		regulation of telomere maintenance			IBA	MGI:1195972 PTN002929876 Q15554 	J:265628 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		regulation of telomere maintenance			IBA	PTN002929876 	J:161428 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		regulation of telomere maintenance			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		regulation of telomere maintenance via telomerase			IBA	PTN002929876 	J:161428 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		regulation of telomere maintenance via telomerase			IBA	PTN002929876 Q15554 	J:265628 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		regulation of telomere maintenance via telomerase			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		telomere capping			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		telomere maintenance			IMP		J:88560 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		telomere maintenance			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		telomeric D-loop disassembly			ISO	Q15554 	J:164563 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		telomeric loop formation			IBA	MGI:1195972 PTN002929876 Q15554 	J:265628 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		telomeric loop formation			IBA	PTN002929876 	J:161428 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		telomeric loop formation			IMP		J:240381 	
+MGI:1195972	Terf2	telomeric repeat binding factor 2	8		telomeric loop formation			ISO	Q15554 	J:164563 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		negative regulation of telomere maintenance			ISO	Q9NYB0 	J:164563 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8	NOT	protection from non-homologous end joining at telomere			IMP		J:158884 J:165984 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		regulation of telomere maintenance			ISO	Q9NYB0 	J:164563 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		telomere maintenance			IBA	A0A1D8PIK2 MGI:1929871 PTN001046706 Q9NYB0 S000005160 SPBC1778.02 	J:265628 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		telomere maintenance			IBA	PTN001046706 	J:161428 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		telomere maintenance			ISO	Q9NYB0 	J:164563 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		telomere maintenance via telomere lengthening			IBA	MGI:1929871 PTN001046706 S000005160 	J:265628 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		telomere maintenance via telomere lengthening			IBA	PTN001046706 	J:161428 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8		telomere maintenance via telomere lengthening			IMP		J:158884 J:165984 	
+MGI:1929871	Terf2ip	telomeric repeat binding factor 2, interacting protein	8	NOT	telomeric loop formation			IMP		J:240381 	
+MGI:1202709	Tert	telomerase reverse transcriptase	13		telomere maintenance via telomerase			IBA	PTN000249074 	J:161428 	
+MGI:1202709	Tert	telomerase reverse transcriptase	13		telomere maintenance via telomerase			IBA	A0A1D8PEA0 O14746 PTN000249074 Q8IEH2 S000004310 SPBC29A3.14c 	J:265628 	
+MGI:1202709	Tert	telomerase reverse transcriptase	13		telomere maintenance via telomerase			ISO	O14746 	J:164563 	
+MGI:1202709	Tert	telomerase reverse transcriptase	13		telomere maintenance via telomerase			TAS		J:100644 	
+MGI:107246	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2	14		negative regulation of telomere maintenance			IDA		J:82975 	
+MGI:107246	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2	14		negative regulation of telomere maintenance via telomerase			ISO	Q9BSI4 	J:164563 	
+MGI:107246	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2	14		regulation of telomere maintenance via telomere lengthening			ISO	Q9BSI4 	J:164563 	
+MGI:107246	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2	14		telomere capping			ISO	Q9BSI4 	J:164563 	
+MGI:1341087	Tnks	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase	8		negative regulation of telomere maintenance via telomere lengthening			ISO	O95271 	J:164563 	
+MGI:1341087	Tnks	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase	8		positive regulation of telomere capping			IBA	PTN000652929 	J:161428 	
+MGI:1341087	Tnks	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase	8		positive regulation of telomere capping			IBA	O95271 PTN000652929 Q9H2K2 	J:265628 	
+MGI:1341087	Tnks	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase	8		positive regulation of telomere capping			ISO	O95271 	J:164563 	
+MGI:1341087	Tnks	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase	8		positive regulation of telomere maintenance via telomerase			ISO	O95271 	J:164563 	
+MGI:1921743	Tnks2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	19		negative regulation of telomere maintenance via telomere lengthening			ISO	Q9H2K2 	J:164563 	
+MGI:1921743	Tnks2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	19		positive regulation of telomere capping			IBA	PTN000652929 	J:161428 	
+MGI:1921743	Tnks2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	19		positive regulation of telomere capping			IBA	O95271 PTN000652929 Q9H2K2 	J:265628 	
+MGI:1921743	Tnks2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	19		positive regulation of telomere capping			ISO	Q9H2K2 	J:164563 	
+MGI:1921743	Tnks2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	19	NOT	telomere maintenance			IMP	MGI:3621819 	J:106917 	
+MGI:1921743	Tnks2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	19	NOT	telomere maintenance			IMP	MGI:3621924 	J:106918 	
+MGI:1921743	Tnks2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	19		telomere maintenance			ISS		J:106917 	
+MGI:107995	Upf1	UPF1 regulator of nonsense transcripts homolog (yeast)	8		regulation of telomere maintenance			ISO	Q92900 	J:164563 	
+MGI:107995	Upf1	UPF1 regulator of nonsense transcripts homolog (yeast)	8		telomere maintenance via semi-conservative replication			ISO	Q92900 	J:164563 	
+MGI:2384933	Wrap53	WD repeat containing, antisense to Trp53	11		telomere maintenance via telomerase			ISO	Q9BUR4 	J:164563 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		telomere maintenance	happens in bone marrow,happens in native cell|happens in spleen,happens in native cell		IGI	MGI:109558 	J:91715 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		telomere maintenance	happens in spleen,happens in native cell		IGI	MGI:109558 MGI:1328362 	J:93016 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		telomere maintenance			IMP	MGI:2156622 	J:83068 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		telomere maintenance			ISO	Q14191 	J:164563 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		telomeric D-loop disassembly			IBA	PTN002492231 	J:161428 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		telomeric D-loop disassembly			IBA	PTN002492231 Q14191 	J:265628 	
+MGI:109635	Wrn	Werner syndrome RecQ like helicase	8		telomeric D-loop disassembly			ISO	Q14191 	J:164563 	
+MGI:99137	Xrcc1	X-ray repair complementing defective repair in Chinese hamster cells 1	7		negative regulation of protection from non-homologous end joining at telomere			IMP		J:125414 	
+MGI:99137	Xrcc1	X-ray repair complementing defective repair in Chinese hamster cells 1	7		telomeric DNA-containing double minutes formation			IMP		J:125414 	
+MGI:1921585	Xrcc3	X-ray repair complementing defective repair in Chinese hamster cells 3	12		t-circle formation			ISO	O43542 	J:164563 	
+MGI:1921585	Xrcc3	X-ray repair complementing defective repair in Chinese hamster cells 3	12		telomere maintenance via recombination			IBA	PTN000534587 	J:161428 	
+MGI:1921585	Xrcc3	X-ray repair complementing defective repair in Chinese hamster cells 3	12		telomere maintenance via recombination			IBA	O43542 PTN000534587 	J:265628 	
+MGI:1921585	Xrcc3	X-ray repair complementing defective repair in Chinese hamster cells 3	12		telomere maintenance via recombination			ISO	O43542 	J:164563 	
+MGI:1921585	Xrcc3	X-ray repair complementing defective repair in Chinese hamster cells 3	12		telomere maintenance via telomere trimming			ISO	O43542 	J:164563 	
+MGI:1333799	Xrcc4	X-ray repair complementing defective repair in Chinese hamster cells 4	13		negative regulation of protection from non-homologous end joining at telomere			IMP		J:125414 	
+MGI:1333799	Xrcc4	X-ray repair complementing defective repair in Chinese hamster cells 4	13		telomeric DNA-containing double minutes formation			IMP		J:125414 	
+MGI:104517	Xrcc5	X-ray repair complementing defective repair in Chinese hamster cells 5	1		negative regulation of t-circle formation			ISO	P13010 	J:164563 	
+MGI:104517	Xrcc5	X-ray repair complementing defective repair in Chinese hamster cells 5	1		positive regulation of telomere maintenance via telomerase			ISO	P13010 	J:164563 	
+MGI:104517	Xrcc5	X-ray repair complementing defective repair in Chinese hamster cells 5	1		telomere maintenance			IBA	A0A1D8PF81 PTN000288287 Q7F1M0 S000004712 S000004897 SPBC543.03c SPCC126.02c 	J:265628 	
+MGI:104517	Xrcc5	X-ray repair complementing defective repair in Chinese hamster cells 5	1		telomere maintenance			IBA	PTN000288287 	J:161428 	
+MGI:95606	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6	15		telomere maintenance			IBA	A0A1D8PF81 PTN000288287 Q7F1M0 S000004712 S000004897 SPBC543.03c SPCC126.02c 	J:265628 	
+MGI:95606	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6	15		telomere maintenance			IBA	PTN000288287 	J:161428 	
+MGI:891964	Xrn1	5'-3' exoribonuclease 1	9		telomere maintenance			IC	GO:0002151 GO:0051880 	J:39219 	
+MGI:891964	Xrn1	5'-3' exoribonuclease 1	9		telomere maintenance			NAS		J:41259 	
+MGI:1926195	Ylpm1	YLP motif containing 1	12		regulation of telomere maintenance			IDA		J:95407 	
+MGI:2140248	Zbtb48	zinc finger and BTB domain containing 48	4		telomere maintenance via telomere lengthening			ISO	P10074 	J:164563 	
+MGI:2143676	Zfp365	zinc finger protein 365	10		telomere maintenance			IMP		J:204237 	
+MGI:2143676	Zfp365	zinc finger protein 365	10		telomere maintenance			ISO	Q70YC5 	J:164563 	
+MGI:2685243	Zscan4c	zinc finger and SCAN domain containing 4C	7		telomere maintenance via telomere lengthening	happens in embryonic stem cell		IDA		J:158887 	
+MGI:2685243	Zscan4c	zinc finger and SCAN domain containing 4C	7		telomere maintenance via telomere lengthening	happens in embryonic stem cell		IMP		J:158887 	
+
