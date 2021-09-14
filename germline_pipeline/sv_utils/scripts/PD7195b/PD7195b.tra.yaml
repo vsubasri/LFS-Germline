@@ -1,0 +1,8 @@
+PBS:
+  name: PD7195b.tra
+  sample: PD7195b
+bam2tab:
+  mutation: TRA
+  normal: /hpf/largeprojects/adam/projects/lfs/data/sanger/PD7195b.wgs/alignment/PD7195b.realigned-recalibrated.bam
+  output: /hpf/largeprojects/adam/projects/lfs/code/germline_pipeline/sv_utils
+  tumor: /hpf/largeprojects/adam/projects/lfs/lfs_germline/aligned_bams/NA12878/NA12878_20k.b37.bam

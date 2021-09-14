@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#PBS -S /bin/bash
+#PBS -N AnnotateSNVs
+#PBS -e annotate.err
+#PBS -o annotate.out
+#PBS -l mem=4g
+#PBS -l vmem=48g
+#PBS -l walltime=48:00:00
+#PBS -l nodes=1:ppn=4
+#PBS -l gres=localhd:10
+
+module load annovar/2017.07.16 snpEff/4.3 vep/92
+
+$cmd
+
