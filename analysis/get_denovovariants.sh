@@ -8,6 +8,6 @@
 
 module load python/3.5.2 bedtools/2.27.1
 
-python /hpf/largeprojects/adam/projects/lfs/lfs_germline/wt/structural_variations/denovo_variants.py
+python /hpf/largeprojects/adam/projects/lfs/lfs_germline/analysis/denovo_variants.py
 
 
