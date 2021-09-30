@@ -32,7 +32,7 @@ The hallmark gene sets from the MSigDB collections are utilized to perform a pat
 
     cisCSCE/
 
-###Preprocessing and addressing confounders in the methylation data
+### Preprocessing and addressing confounders in the methylation data ###
 Raw beta values are corrected for dye-bias using ssNoob. The normalized beta values are then corrected for the batch effects between 96-well plates using ComBat. Probabilistic estimation of expression residuals (PEER)–a factor analysis method that infers hidden determinants and their effects on molecular profiles–was used to remove broad variance from known confounders (array type, batch, cancer status, age of sample collection, gender) as well as 100 hidden (latent) factors. Following PCA transformation of each cohort, samples within 3 standard deviations of the mean of PC1 (μPC1 ± 3σ) and PC2 (μPC2 ± 3σ) are retained. 
 
 ### Discovery of cancer-associated secondary constitutional epimutation (CSCE) ###
